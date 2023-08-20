@@ -1,5 +1,5 @@
-# A.L.I.C.I.A
-Project A.L.I.C.I.A is my project to learn how to create cmd interface by using click library and learn how to hash using bcrypt
+# A.E.ONIX
+Project A.E.ONIX is my project to learn how to create cmd interface by using click library and learn how to hash using bcrypt
 
 Features & Functionalities:
 
